@@ -20,12 +20,7 @@ Style the document called document1.html using embedded Styles.  Use layouts to 
 
 ### Requirements:
 Your style document must include the following:
-* a background image for the entire body
-* a global style for every p tag
 * a class that applies only to p tags
-* a div tag with a background color and foreground in a complementing color (no black on black)
-* a class that contains a defintition for a border
-* a div tag that contains padding around the content (you may want to google padding if you're not sure what it means)
 * a class that defines the font properties
     * font size (can use pixels or em.  What is the difference between the two?)
     * font style
